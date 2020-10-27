@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **still looking**
 - 🤔 I’m looking for help with **ML, React, Node** 
 - 💬 Ask me about **React, HTML, CSS, JS, Linux** :neutral_face:
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ruben-shibu-b7607b183/)[Instagram](https://www.instagram.com/_a_r_2k_/)[Twitter](https://twitter.com/shibu_ruben)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ruben-shibu-b7607b183/)  [Instagram](https://www.instagram.com/_a_r_2k_/)  [Twitter](https://twitter.com/shibu_ruben)
 - ⚡ Fun fact: :innocent:
 
 <img align="center" alt="Ruben's github stats" src="https://github-readme-stats.rubenshibu.vercel.app/api/top-langs?username=rubenshibu&show_icons=true&hide_border=true&layout=compact" />
